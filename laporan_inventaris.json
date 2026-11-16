@@ -1,0 +1,105 @@
+{
+    "ringkasan_umum": {
+        "total_jenis_barang_valid": 6,
+        "total_baris_diabaikan": 3,
+        "total_nilai_seluruh_aset": 235555000.0
+    },
+    "rekap_per_kategori": {
+        "Atk": {
+            "jumlah_item": 2,
+            "total_unit": 49,
+            "total_nilai_aset": 2955000.0
+        },
+        "Elektronik": {
+            "jumlah_item": 2,
+            "total_unit": 21,
+            "total_nilai_aset": 189000000.0
+        },
+        "Furniture": {
+            "jumlah_item": 2,
+            "total_unit": 20,
+            "total_nilai_aset": 43600000.0
+        }
+    },
+    "peringatan_stok_kritis": [
+        {
+            "id_barang": "BRG002",
+            "nama_barang": "Mouse Wireless Logitech",
+            "kategori": "Elektronik",
+            "stok": 6,
+            "harga_satuan": 250000.0,
+            "total_nilai": 1500000.0
+        },
+        {
+            "id_barang": "BRG003",
+            "nama_barang": "Kursi Kerja Ergonomis",
+            "kategori": "Furniture",
+            "stok": 8,
+            "harga_satuan": 1850000.0,
+            "total_nilai": 14800000.0
+        },
+        {
+            "id_barang": "BRG006",
+            "nama_barang": "Tinta Printer Hitam",
+            "kategori": "Atk",
+            "stok": 4,
+            "harga_satuan": 120000.0,
+            "total_nilai": 480000.0
+        }
+    ],
+    "data_inventaris_bersih": [
+        {
+            "id_barang": "BRG001",
+            "nama_barang": "Laptop Lenovo ThinkPad",
+            "kategori": "Elektronik",
+            "stok": 15,
+            "harga_satuan": 12500000.0,
+            "total_nilai": 187500000.0
+        },
+        {
+            "id_barang": "BRG002",
+            "nama_barang": "Mouse Wireless Logitech",
+            "kategori": "Elektronik",
+            "stok": 6,
+            "harga_satuan": 250000.0,
+            "total_nilai": 1500000.0
+        },
+        {
+            "id_barang": "BRG003",
+            "nama_barang": "Kursi Kerja Ergonomis",
+            "kategori": "Furniture",
+            "stok": 8,
+            "harga_satuan": 1850000.0,
+            "total_nilai": 14800000.0
+        },
+        {
+            "id_barang": "BRG004",
+            "nama_barang": "Meja Kantor Kayu",
+            "kategori": "Furniture",
+            "stok": 12,
+            "harga_satuan": 2400000.0,
+            "total_nilai": 28800000.0
+        },
+        {
+            "id_barang": "BRG005",
+            "nama_barang": "Kertas A4 80gsm",
+            "kategori": "Atk",
+            "stok": 45,
+            "harga_satuan": 55000.0,
+            "total_nilai": 2475000.0
+        },
+        {
+            "id_barang": "BRG006",
+            "nama_barang": "Tinta Printer Hitam",
+            "kategori": "Atk",
+            "stok": 4,
+            "harga_satuan": 120000.0,
+            "total_nilai": 480000.0
+        }
+    ],
+    "log_anomali_data": [
+        "Baris 7: Duplikat ID 'BRG002' diabaikan.",
+        "Baris 9 (BRG007): Stok atau harga tidak boleh negatif.",
+        "Baris 10 (BRG008): Stok atau harga bukan angka valid."
+    ]
+}

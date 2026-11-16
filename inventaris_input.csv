@@ -1,0 +1,10 @@
+id_barang,nama_barang,kategori,stok,harga_satuan
+BRG001,Laptop Lenovo ThinkPad,Elektronik,15,12500000
+BRG002,Mouse Wireless Logitech,Elektronik,6,250000
+BRG003,Kursi Kerja Ergonomis,Furniture,8,1850000
+BRG004,Meja Kantor Kayu,Furniture,12,2400000
+BRG005,Kertas A4 80gsm,ATK,45,55000
+BRG002,Mouse Wireless Logitech,Elektronik,6,250000
+BRG006,Tinta Printer Hitam,ATK,4,120000
+BRG007,Monitor LED 24 Inch,Elektronik,-3,1750000
+BRG008,Spidol Whiteboard,ATK,abc,12000
